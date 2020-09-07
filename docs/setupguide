@@ -1,0 +1,7 @@
+https://medium.com/2359media/tutorial-automated-testing-on-android-and-ios-with-appium-testng-and-java-on-mac-210119edf323
+
+need to setup all tools, which is noticed when run appium-doctor
+
+guide to setup bundletool:
+https://stackoverflow.com/questions/52982511/unable-to-generate-apks-using-bundletool-in-android-studio
+https://stackoverflow.com/questions/54250178/appium-finishing-setting-up-optional-dependencies

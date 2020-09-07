@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Android Tests" verbose="1" parallel="tests">
+
+    <test name="Nexus-6">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="nodeUrl" value="http://localhost:4444/wd/hub"/>
+        <classes>
+            <class name="AppTest"/>
+        </classes>
+    </test>
+
+</suite>
